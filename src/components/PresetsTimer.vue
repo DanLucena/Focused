@@ -54,7 +54,7 @@ export default {
       });
     },
     changeButtonState(preset) {
-      let audio = new Audio(`https://dl.sndup.net/n29f/click.mp3`);
+      let audio = new Audio(`assets/click.mp3`);
       audio.play();
 
       this.presetValuesInSeconds.forEach(item => item.active = false);

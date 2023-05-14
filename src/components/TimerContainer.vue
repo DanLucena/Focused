@@ -47,7 +47,7 @@ export default {
         if(result.timerPreset == 0) return;
         vm.isRunning = !vm.isRunning;
 
-        let audio = new Audio(`https://dl.sndup.net/n29f/click.mp3`);
+        let audio = new Audio(`assets/click.mp3`);
         audio.play();
 
         if(vm.isRunning) {
