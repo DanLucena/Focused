@@ -1,0 +1,40 @@
+{
+  "test": "Testando",
+  "snackBar": {
+    "success": "Alteração salva com sucesso !"
+  },
+  "config": {
+    "buttons": {
+      "save": "Salvar",
+      "back": "Voltar",
+      "add": "Adicionar"
+    },
+    "labels": {
+      "language": "Linguagem",
+      "theme": "Tema Escuro",
+      "block": "Bloquear Páginas",
+      "notifications": "Notificações",
+      "settings": "Configurações"
+    },
+    "blockSection": {
+      "title": "Lista de sites bloqueados"
+    }
+  },
+  "timer": {
+    "title": "Cronômetro de Foco",
+    "buttons": {
+      "start": "Começar",
+      "reset": "Resetar",
+      "stop": "Pausar"
+    },
+    "labels": {
+      "times": "Vezes",
+      "hour": "Horas",
+      "minute": "Minutos",
+      "second": "Segundos"
+    }
+  },
+  "presetSection": {
+    "title": "Predefinições"
+  }
+}

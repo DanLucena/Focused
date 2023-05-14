@@ -1,0 +1,40 @@
+{
+  "test": "Testing",
+  "snackBar": {
+    "success": "Change successfully saved!"
+  },
+  "config": {
+    "buttons": {
+      "save": "Save",
+      "back": "Back",
+      "add": "Add"
+    },
+    "labels": {
+      "language": "Language",
+      "theme": "Dark Theme",
+      "block": "Block Pages",
+      "notifications": "Notifications",
+      "settings": "Settings"
+    },
+    "blockSection": {
+      "title": "Blocked site list"
+    }
+  },
+  "timer": {
+    "title": "Focus Timer",
+    "buttons": {
+      "start": "Start",
+      "reset": "Reset",
+      "stop": "Stop"
+    },
+    "labels": {
+      "times": "Times",
+      "hour": "Hours",
+      "minute": "Minutes",
+      "second": "Seconds"
+    }
+  },
+  "presetSection": {
+    "title": "Presets"
+  }
+}

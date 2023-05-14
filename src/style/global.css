@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500;600;700&family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Roboto+Mono:wght@100;200;300;400;500;600;700&display=swap');
+
+html, body {
+  font-family: 'Roboto Mono', monospace;
+}
+
+body {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+@keyframes move-up {
+  from {
+    top: 12rem;
+  }
+  to {
+    top: 0;
+  }
+}
+
+/* Aplica a animação a uma classe */
+.move-up {
+  animation: move-up 150ms;
+}
+
+@keyframes move-down {
+  from {
+    top: 0;
+  }
+  to {
+    top: 12rem;
+  }
+}
+
+/* Aplica a animação a uma classe */
+.move-down {
+  animation: move-down 150ms;
+}
+
+@keyframes move-right {
+  from {
+    left: 25rem;
+  }
+  to {
+    left: 0rem;
+  }
+}
+
+.move-right {
+  animation: move-right 350ms;
+}
+
+@keyframes move-left {
+  from {
+    left: 0rem;
+  }
+  to {
+    left: 25rem;
+  }
+}
+
+.move-left {
+  animation: move-left 350ms;
+}
