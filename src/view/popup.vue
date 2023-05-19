@@ -2,7 +2,7 @@
   <div class="w-96 h-[37rem] flex flex-col">
     <div class="relative">
       <icon-button class="absolute right-3 top-3" @click="changeConfigMode" />
-      <img src="https://thumbs.gfycat.com/AgedMiniatureBoto-max-1mb.gif" alt="">
+      <img src="@/assets/output.gif" alt="">
     </div>
     <div :class="`absolute ${menuConfigStyle} bg-white flex flex-col h-[25rem]`">
       <timer-container v-if="!isConfigMode" />

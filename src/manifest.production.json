@@ -11,7 +11,7 @@
             "128": "assets/focused128.png"
         }
     },
-    "permissions": ["alarms", "storage", "audio", "tabs"],
+    "permissions": ["alarms", "storage", "tabs"],
     "background": {
         "service_worker": "background.js"
     },

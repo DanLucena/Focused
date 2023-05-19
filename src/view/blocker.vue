@@ -2,7 +2,7 @@
   <div class="page-block">
     <h1>Focus Time</h1>
     <figure class="center-image">
-      <img src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" alt="lazy cat gif"/>
+      <img src="https://i.ibb.co/7V2RrRX/5f934966a1d20bae1909c9ef2278bd4c.gif" alt="lazy cat gif"/>
     </figure>
     <span>Don't give up, you're doing a great job, stay focused and you'll achieve all your goals.</span>
   </div>
