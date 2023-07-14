@@ -9,4 +9,4 @@ To make use of the extension it will be necessary to clone the repository and ru
 yarn build-watch
 ```
 
-After this you only need to import the extension (dist folder) as a developer and start to play around.
+After this you only need to import the extension (dist folder) as a developer and start to play around. oi
